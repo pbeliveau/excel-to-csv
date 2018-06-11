@@ -1,4 +1,7 @@
 # Excel to CSV
+
+![](/img/example.gif)
+
 # Why convert to CSV?
 
 Sometime, I come upon a dataset that are only available in .XLSX format (or similar
